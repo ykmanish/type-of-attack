@@ -267,19 +267,21 @@ const HeroSection = () => {
               
               <h1 className="text-5xl lg:text-7xl font-bold leading-tight font-mono">
                 <span className="text-white">
-                  UNDERSTAND
+                  TYPES OF
                 </span>
                 <br />
                 <span className="text-red-500">
-                  CYBER THREATS
+                  CYBER ATTACKS
                 </span>
                 <br />
-                <span className="text-orange-500">
-                  DEEPLY
-                </span>
+                
+                 
               </h1>
+              <h1 className="text-orange-500 font-mono text-2xl">
+              by Manish Yadav under the guidance of <br/><span className='text-blue-500'>Dr. Hetal Thaker Ma'am</span> 
+                </h1>
               
-              <div className="space-y-4">
+              <div className="space-y-4 mt-10">
                 <p className="text-xl text-gray-300 leading-relaxed max-w-2xl font-mono">
                   Comprehensive guide to modern cybersecurity threats, attack vectors, and defense strategies to protect your organization.
                 </p>
